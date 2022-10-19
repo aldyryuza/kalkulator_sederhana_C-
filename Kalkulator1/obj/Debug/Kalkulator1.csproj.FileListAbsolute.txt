@@ -1,0 +1,10 @@
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe.config
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.pdb
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.AssemblyReference.cache
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Form1.resources
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.Properties.Resources.resources
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.GenerateResource.cache
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.csproj.CoreCompileInputs.cache
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.exe
+D:\DATAKU\KERJA\AXATA-TECHNOLOGY\MAGANG\hari3\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.pdb
